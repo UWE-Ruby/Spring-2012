@@ -1,70 +1,72 @@
-Class 1
+### [Class 1](http://github.com/UWE-Ruby/week-21)
 
 * Introduction
-* Rails Installation and Refresher
-* Ruby's Object Model
-* Metaprogramming
-  - class extension, mixins (included/excluded)
+* Exercise: Monkey Patching
+* Meta-programming
+  - #respond_to?, #send, Ruby's Object Model, modules, and around alias
 
-Class 2
+### Class 2
 
+* Exercise: Configurable Configuration
+* Meta-programming
+  - ghost methods, memoization, and method_missing
 * Rails Models
   - delegates, modules, multiple databases, and legacy databases
-* Metaprogramming
-  - ghost methods, memoization, method arguments (splat, named arguments)
 
-Class 3
+### Class 3
 
-* Rails Models
-  - associations, sql finders
+* Exercise: Dynamic Method Creation
+* Meta-programming
+  - dynamic method creation, dynamic proxy, method blocks, initialization with blocks
 * Behavior Driven Development
   - RSpec Custom Matchers
-* Metaprogramming
-  - dynamic proxy, method blocks
+* Rails Models
+  - associations, sql finders
 
-Class 4
+### Class 4
 
-* Rails Environments & Initializers
+* Exercise: A domain language
+* Meta-programming
+  - singletons, instance_eval, class_eval, deferred evaluation
 * Rails Controllers
-  - Skinny Controllers, Presenter Pattern, multiple MIME types (Mobile)
-* Metaprogramming
-  - singletons, around alias, initialization with blocks, deferred evaluation
+  - Skinny Controllers
+* Rails Environments & Initializers
   
-Class 5
+### Class 5
 
-* Behavior Driven Development
-  - Cucumber and Capybara
+* Meta-programming
+  - Modules (extended/included)
+* Rails Controller
+  - Presenter Pattern, Multiple MIME types (Mobile)
+* Rails Views
+  - Advanced User Forms
+
+### Class 6
+
 * Rails Views
   - Builder Pattern
   - AJAX and partial page loads
-  - Advanced User Forms
   - Client Side Validations
 
-Class 6
+### Class 7
 
-* Time Zones
-* Messaging
 * Offline Job Processing
-* Asynchronous Messaging
+  - Redis & Resque
 
-Class 7
+### Class 8
 
-NoSQL Implementations
+* Performance
+  - Evaluating and Monitoring
+  - Memcache and Varnish
 
-Class 8
+### Class 9
 
-Exception Handling
-Security
- - Authentication
- - Encryption
+* Exception Handling
+* Security
+  - Authentication
+  - Encryption
 
-Class 9
-
-Performance
- - Load Balancing
- - Caching
-
-Class 10
+### Class 10
 
 Project Presentations
 Wrap Up
