@@ -107,6 +107,5 @@
 
 ### Class 10
 
-Project Presentations
 Wrap Up
 Class Review
