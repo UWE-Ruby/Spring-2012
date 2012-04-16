@@ -3,29 +3,70 @@
 * Introduction
 * Exercise: Monkey Patching
 * Meta-programming
-  - #respond_to?, #send, Ruby's Object Model, modules, and around alias
+
+    > `#respond_to?`
+    > 
+    > `#send`
+    > 
+    > Ruby's Object Model
+    > 
+    > modules
+    >
+    > Around Alias
 
 ### [Class 2](https://github.com/UWE-Ruby/week-22)
 
 * Exercise: Configurable Configuration
 * Meta-programming
-  - ghost methods, memoization, method_missing, and ghost methods
+
+    > ghost methods
+    >
+    > memoization
+    >
+    > method_missing
+    >
+    > ghost methods
 
 ### Class 3
 
 * Exercise: Dynamic Method Creation
 * Meta-programming
-  - dynamic method creation, dynamic proxy, method blocks, initialization with blocks
-* Rails Models
-  - delegates, modules, multiple databases, and legacy databases
+
+    > dynamic method creation
+    >
+    > dynamic proxy
+    > 
+    > method blocks
+    > 
+    > initialization with blocks
+
 * Behavior Driven Development
-  - RSpec Custom Matchers
+
+    > Mocking and Stubbing
+    >
+    > RSpec Custom Matchers
 
 ### Class 4
 
 * Exercise: A domain language
 * Meta-programming
-  - singletons, instance_eval, class_eval, deferred evaluation
+  
+    > singletons
+    > 
+    > instance_eval
+    > 
+    > class_eval
+    >
+    > deferred evaluation
+    
+* Rails Models
+
+    > delegates
+    >
+    > multiple databases
+    >
+    > legacy databases
+  
 * Rails Controllers
   - Skinny Controllers
 * Rails Environments & Initializers
