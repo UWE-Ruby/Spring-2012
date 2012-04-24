@@ -27,9 +27,9 @@
     >
     > ghost methods
 
-### Class 3
+### [Class 3](https://github.com/UWE-Ruby/week-23)
 
-* Exercise: Dynamic Method Creation
+* Exercise: Code Review
 * Meta-programming
 
     > dynamic method creation
@@ -37,75 +37,74 @@
     > dynamic proxy
     > 
     > method blocks
-    > 
-    > initialization with blocks
-
-* Behavior Driven Development
-
-    > Mocking and Stubbing
-    >
-    > RSpec Custom Matchers
-
-### Class 4
+    
+### [Class 4](https://github.com/UWE-Ruby/week-24)
 
 * Exercise: A domain language
 * Meta-programming
-  
-    > singletons
+
+    > method blocks
+    > 
+    > initialization with blocks
     > 
     > instance_eval
     > 
     > class_eval
     >
     > deferred evaluation
-    
-* Rails Models
-
-    > delegates
-    >
-    > multiple databases
-    >
-    > legacy databases
-  
-* Rails Controllers
-  - Skinny Controllers
-* Rails Environments & Initializers
-  
+      
 ### Class 5
 
+* Exercise: DRYing up your code
 * Meta-programming
-  - Modules (extended/included)
-* Rails Controller
-  - Presenter Pattern, Multiple MIME types (Mobile)
-* Rails Views
-  - Advanced User Forms
+  
+    > Modules (extended/included)
+  
+* Behavior Driven Development
+
+    > Mocking and Stubbing
+    >
+    > RSpec Custom Matchers
+
+* Rails Models
+    
+    > delegates
 
 ### Class 6
 
-* Rails Views
-  - Builder Pattern
-  - AJAX and partial page loads
-  - Client Side Validations
+* Rails Models
+
+    > Observers
+
+* Rails Controllers and Views
+
+    > Presenter Pattern
 
 ### Class 7
 
 * Offline Job Processing
-  - Redis & Resque
+    
+    > Redis & Resque
 
 ### Class 8
 
 * Performance
-  - Evaluating and Monitoring
-  - Memcache and Varnish
+
+    > Evaluating and Monitoring
+    >
+    > Memcache and Varnish
 
 ### Class 9
 
 * Exception Handling
 * Security
-  - Authentication
-  - Encryption
+
+    > Authentication
+    > 
+    > Encryption
 
 ### Class 10
 
-Wrap Up
-Class Review
+* Wrap Up
+
+* Class Review
